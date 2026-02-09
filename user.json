@@ -3,17 +3,20 @@
     {
       "user": "asshanto",
       "key": "2026",
-      "hwid": "SANCY-ORPWI93ZZ"
+      "hwid": "SANCY-ORPWI93ZZ",
+      "email": "admin@primex.com"
     },
-     {
+    {
       "user": "asshanto1",
       "key": "1",
-      "hwid": "ORPWI93ZZ"
+      "hwid": "ORPWI93ZZ",
+      "email": "user1@primex.com"
     },
     {
       "user": "pro_gamer",
       "key": "12345",
-      "hwid": "SANCY-R9X2K5M1P"
+      "hwid": "SANCY-R9X2K5M1P",
+      "email": "pro@gamer.com"
     }
   ]
 }
