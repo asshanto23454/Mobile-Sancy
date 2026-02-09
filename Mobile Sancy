@@ -1,12 +1,14 @@
 {
   "users": [
     {
-      "email": "admin@primex.com",
-      "key": "123456"
+      "email": "admin@sancy.com",
+      "key": "2026",
+      "hwid": "NONE"
     },
     {
-      "email": "user@gmail.com",
-      "key": "mypassword"
+      "email": "user1@gmail.com",
+      "key": "pass123",
+      "hwid": "SANCY-R9X2K5M1P"
     }
   ]
 }
