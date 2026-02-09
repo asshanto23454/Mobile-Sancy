@@ -1,8 +1,14 @@
 [
   {
-    "username": "test_user",
-    "password": "123",
-    "hwid": "54fa9f01735cb373",
+    "username": "user1",
+    "password": "pass1",
+    "hwid": "ANY",
+    "expiry": "2026-12-31"
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "hwid": "ANY",
     "expiry": "2026-12-31"
   }
 ]
