@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "email": "admin@sancy.com",
+      "user": "asshanto",
       "key": "2026",
       "hwid": "NONE"
     },
     {
-      "email": "user1@gmail.com",
-      "key": "pass123",
+      "user": "pro_gamer",
+      "key": "12345",
       "hwid": "SANCY-R9X2K5M1P"
     }
   ]
