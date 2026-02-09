@@ -1,1 +1,12 @@
-
+{
+  "users": [
+    {
+      "email": "admin@primex.com",
+      "key": "123456"
+    },
+    {
+      "email": "user@gmail.com",
+      "key": "mypassword"
+    }
+  ]
+}
