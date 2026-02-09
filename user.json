@@ -1,22 +1,14 @@
-{
-  "users": [
-    {
-      "user": "asshanto",
-      "key": "2026",
-      "hwid": "SANCY-O38LN45BP",
-      "email": "admin@primex.com"
-    },
-    {
-      "user": "asshanto1",
-      "key": "1",
-      "hwid": "SANCY-O38LN45BP",
-      "email": "user1@primex.com"
-    },
-    {
-      "user": "imarn",
-      "key": "1",
-      "hwid": "SANCY-M339YWTSC",
-      "email": "pro@gamer.com"
-    }
-  ]
-}
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "hwid": "54fa9f01735cb373",
+    "expiry": "2026-12-31" 
+  },
+  {
+    "username": "sancy",
+    "password": "pass",
+    "hwid": "ANY",
+    "expiry": "2026-05-10"
+  }
+]
