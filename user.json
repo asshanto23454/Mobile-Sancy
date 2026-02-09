@@ -1,14 +1,8 @@
 [
   {
-    "username": "admin",
+    "username": "test_user",
     "password": "123",
     "hwid": "54fa9f01735cb373",
-    "expiry": "2026-12-31" 
-  },
-  {
-    "username": "sancy",
-    "password": "pass",
-    "hwid": "ANY",
-    "expiry": "2026-05-10"
+    "expiry": "2026-12-31"
   }
 ]
