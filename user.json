@@ -10,11 +10,5 @@
     "password": "1",
     "hwid": "ANY",
     "expiry": "2026-12-31"
-  },
-  {
-    "username": "anik",
-    "password": "1",
-    "hwid": "eee1f54ef740ae2b",
-    "expiry": "2026-03-10"
-  }
+  }  
 ]
